@@ -1,5 +1,5 @@
 qr-bookmarks
 ============
-Добавьте в браузере закладку с таким содержимым
+Добавьте в браузер закладку с таким содержимым:
 
-javascript:(function(){var%20script=document.createElement('script');script.src='//raw.github.com/waxerdima/qr-bookmarks/master/qr.js';document.documentElement.appendChild(script);})();
+javascript:(function(){var%20script=document.createElement('script');script.src='//goo.gl/Abtqn';document.documentElement.appendChild(script);})();
