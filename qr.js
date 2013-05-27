@@ -1,6 +1,6 @@
 (function() {
 var script = document.createElement('script');
-script.src = '//raw.github.com/waxerdima/qr-bookmarks/master/qrcode.min.js';
+script.src = '//goo.gl/uJfzA';
 document.documentElement.appendChild(script);   
 script.onload = function() {
   var 
