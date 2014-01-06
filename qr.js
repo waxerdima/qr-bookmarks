@@ -25,6 +25,10 @@ function createWindow() {
   div.style.height = '200px';
   div.style.position = 'fixed';
   div.style.zIndex = '999999999';
+  div.style.backgroundColor = '#FFF';
+  div.style.border = '1px solid #999';
+  div.style.borderRadius = '30px';
+  div.style.padding = '40px';
   div.onclick = function() {
     this.parentNode.removeChild(this);    
   };
